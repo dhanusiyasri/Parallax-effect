@@ -29,7 +29,7 @@ CSS3 (including `background-attachment: fixed`)
 ## 💡 How to Use
 
 1. Clone this repository:
-
+https://github.com/dhanusiyasri/Parallax-effect.git
    
 
 2. Open `index.html` in your browser to view the page.
